@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "name": "Arroz",
+      "price": 2500,
+      "amount": 3,
+      "categoryId": 1,
+      "imageURL": "https://supertiendascomunal.com/1883-large_default/arroz-diana-libra.jpg",
+      "id": 1
+    },
+    {
+      "name": "Chocolatina",
+      "price": 1200,
+      "amount": 7,
+      "categoryId": 3,
+      "imageURL": "https://locatelcolombia.vtexassets.com/arquivos/ids/226629/7702007212402_1_CHOCOLATINA-MANI-JUMBO-X-100G.jpg",
+      "id": 3
+    },
+    {
+      "name": "Arroz",
+      "price": 2500,
+      "amount": 3,
+      "categoryId": 1,
+      "imageURL": "https://supertiendascomunal.com/1883-large_default/arroz-diana-libra.jpg",
+      "id": 4
+    },
+    {
+      "name": "Lechuga",
+      "price": 600,
+      "amount": 10,
+      "categoryId": 2,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/f9e4125a-aac8-4edb-a086-c9ffd2003175_700x700.png",
+      "id": 5
+    },
+    {
+      "name": "Chocolatina",
+      "price": 1200,
+      "amount": 7,
+      "categoryId": 3,
+      "imageURL": "https://locatelcolombia.vtexassets.com/arquivos/ids/226629/7702007212402_1_CHOCOLATINA-MANI-JUMBO-X-100G.jpg",
+      "id": 6
+    },
+    {
+      "name": "Arroz",
+      "price": 2500,
+      "amount": 3,
+      "categoryId": 1,
+      "imageURL": "https://supertiendascomunal.com/1883-large_default/arroz-diana-libra.jpg",
+      "id": 7
+    },
+    {
+      "name": "Lechuga",
+      "price": 600,
+      "amount": 10,
+      "categoryId": 2,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/f9e4125a-aac8-4edb-a086-c9ffd2003175_700x700.png",
+      "id": 8
+    },
+    {
+      "name": "Chocolatina",
+      "price": 1200,
+      "amount": 7,
+      "categoryId": 3,
+      "imageURL": "https://locatelcolombia.vtexassets.com/arquivos/ids/226629/7702007212402_1_CHOCOLATINA-MANI-JUMBO-X-100G.jpg",
+      "id": 9
+    },
+    {
+      "name": "Arroz",
+      "price": 2500,
+      "amount": 3,
+      "categoryId": 1,
+      "imageURL": "https://supertiendascomunal.com/1883-large_default/arroz-diana-libra.jpg",
+      "id": 10
+    },
+    {
+      "name": "Lechuga",
+      "price": 600,
+      "amount": 10,
+      "categoryId": 2,
+      "imageURL": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/f9e4125a-aac8-4edb-a086-c9ffd2003175_700x700.png",
+      "id": 11
+    },
+    {
+      "name": "Chocolatina",
+      "price": 1200,
+      "amount": 7,
+      "categoryId": 3,
+      "imageURL": "https://locatelcolombia.vtexassets.com/arquivos/ids/226629/7702007212402_1_CHOCOLATINA-MANI-JUMBO-X-100G.jpg",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Abarrotes"
+    },
+    {
+      "id": 2,
+      "name": "Legumbre"
+    },
+    {
+      "id": 3,
+      "name": "Dulces"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "snaidy",
+      "user": "esmeralda",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "laura",
+      "user": "lauris",
+      "password": "1234"
+    }
+  ]
+}
